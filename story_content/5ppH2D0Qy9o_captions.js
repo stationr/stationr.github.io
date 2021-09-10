@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.41.22450.0%0D%0A%0D%0A00:00:00.128%20--%3E%2000:00:02.816%0D%0ALike%20our%20mother,%20he%20takes%20a%20pill%20and%20watches%20his%20diet.%0D%0A%0D%0A"}')

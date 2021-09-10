@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.41.22450.0%0D%0A%0D%0A00:00:00.160%20--%3E%2000:00:05.532%0D%0AAll%20OLDCARTS%20question%20types%20have%20been%20covered,%20although%20there%20are%20always%20more%20questions%20that%20can%20be%20asked.%0D%0A%0D%0A"}')

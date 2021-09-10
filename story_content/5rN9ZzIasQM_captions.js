@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.41.22450.0%0D%0A%0D%0A00:00:00.096%20--%3E%2000:00:05.284%0D%0AMs.%20Jones,%20I%20see%20you%20were%20referred%20to%20us%20from%20the%20Minority%20Health%20Fair%20screening.%20What%20brings%20you%20in%20today?%0D%0A%0D%0A"}')

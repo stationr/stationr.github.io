@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.41.22450.0%0D%0A%0D%0A00:00:00.256%20--%3E%2000:00:03.580%0D%0AWhat%20is%20your%20daily%20caloric%20intake.%20An%20estimate%20is%20okay.%20%0D%0A%0D%0A"}')

@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.41.22450.0%0D%0A%0D%0A00:00:00.192%20--%3E%2000:00:05.460%0D%0ADoes%20your%20sister%20take%20medication%20daily%20to%20control%20her%20asthma%20or%20does%20she%20take%20them%20as%20needed?%0D%0A%0D%0A"}')
