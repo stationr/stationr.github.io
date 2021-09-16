@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.41.22450.0%0D%0A%0D%0A00:00:00.088%20--%3E%2000:00:08.054%0D%0AHave%20you%20ever%20received%20a%20blood%20transfusion?%20If%20so,%20when%20and%20did%20you%20experience%20any%20adverse%20effect?%0D%0A%0D%0A"}')

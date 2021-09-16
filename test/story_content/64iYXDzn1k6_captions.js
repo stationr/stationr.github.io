@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.41.22450.0%0D%0A%0D%0A00:00:00.128%20--%3E%2000:00:05.764%0D%0AIt%E2%80%99s%20a%20dry%20cough%20for%20sure,%20but%20I%20feel%20like%20I%20have%20to%20clear%20my%20throat%20every%20second.%0D%0A%0D%0A"}')
